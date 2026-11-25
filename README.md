@@ -33,6 +33,8 @@ Proyek ini mengelompokkan destinasi wisata di Bali berdasarkan rating, jumlah ul
 Hasil lengkap (jumlah cluster terpilih, nilai Silhouette, profil dan nama tiap kelompok) ada di notebook pada bagian Evaluasi dan Kesimpulan.
 
 ## Pernyataan Penggunaan AI
-- **Alat yang dipakai:** Claude (Anthropic)
-- **Untuk bagian apa:** membantu mencari dataset yang sesuai petunjuk soal, menyusun kerangka kode notebook (pra-pemrosesan, Elbow dan Silhouette, K-Means, PCA), serta membantu langkah membuat repository GitHub.
-- **Bagaimana hasilnya saya periksa:** saya menjalankan seluruh sel notebook sendiri, memeriksa angka dan grafik yang keluar, menentukan sendiri pilihan fitur, penanganan outlier, jumlah cluster, dan nama tiap kelompok, serta mempelajari setiap bagian kode agar dapat menjelaskan dan mengubahnya saat presentasi.
+- Alat yang dipakai: Claude
+- Untuk bagian apa: membantu mencari dataset dan menyusun kerangka kode notebook.
+- Cara saya memeriksa hasilnya: saya menjalankan kodenya sendiri, memeriksa hasilnya, dan memahami setiap bagian kode.
+
+hnya saat presentasi.
