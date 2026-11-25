@@ -20,7 +20,7 @@ Proyek ini mengelompokkan destinasi wisata di Bali berdasarkan rating, jumlah ul
 
 ## Struktur Repository
 - README.md
-- notebook/UTS_ML_2301010424_Nitchel.ipynb
+- notebook/UTS_ML_2301010424_Nitchel_runesi.ipynb
 - data/bali_tourist_destination.csv
 - reports/ (grafik utama dan slide presentasi)
 
