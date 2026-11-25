@@ -37,4 +37,3 @@ Hasil lengkap (jumlah cluster terpilih, nilai Silhouette, profil dan nama tiap k
 - Untuk bagian apa: membantu mencari dataset dan menyusun kerangka kode notebook.
 - Cara saya memeriksa hasilnya: saya menjalankan kodenya sendiri, memeriksa hasilnya, dan memahami setiap bagian kode.
 
-hnya saat presentasi.
